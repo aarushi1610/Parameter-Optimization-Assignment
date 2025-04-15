@@ -44,8 +44,7 @@
  
  The following Convergence graph shows the accuracy of sample 2 (maximum accuracy) over the 100 iterations:
  
- ![Convergence graph of sample 2](./download.png)
- 
+![image](https://github.com/user-attachments/assets/a89fe5f4-d791-4efc-8e89-109bb81a4c9c)
  
  ## Result
  The best parameters of SVC for the given dataset are:
